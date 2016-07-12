@@ -1,0 +1,19 @@
+button {
+  background-color: #59fe34;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 30px;
+}
+.display-d {
+  color: #741236;
+}
+#event2 {
+  color: #85f369;
+  background-color: #7535ff;
+  width: 550px;
+  text-align: center;
+}
